@@ -13,6 +13,8 @@ El programa fue creado en conjunto con **ChatGPT-3.5** , y desarrollado en Pytho
  - *TKINTER*  - para una pequeña interfaz para ingreso de datos
  - *PYINSTALLER* -  para encapsular el programa en un ejectuable y poder distribuirlo
 
+Para el usuario, se despliega una pequeña interfaz donde se solicita sus datos pra iniciar sesion en la pagina, y tambien unos campos para que seleccione a que hora quiere que se intente apretar el boton de reserva *(Este feature fue creado ya que en Europa hay un cambio de horario en Invierno y en Verano, donde se cambia + o - 1 hora, por lo que la apertura de turnos tambien modifica su horario)*.
+
 El proyecto logro ser desarrollado hasta una version Beta en al rededor de 3 dias.
 **Actualmente, se encuentra siendo testeado.**
 
