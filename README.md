@@ -1,27 +1,51 @@
-# AutoPrenota
+# 🤖 AutoPrenota  
 
-En Argentina, actualmente mucha gente esta intentando poder tramitar su ciudadania italiana🇮🇹. Lamentablemente, especialmente en el consulado de Zona Sur ubicado en Lomas de Zamora, los turnos son casi imposibles de conseguir.
-Los turnos se habren determinados dias en determinado horario, y en cuestion de minutos se ocupan 🏃‍♂️⏰.
+Programa de **automatización web en Python** desarrollado para ayudar a quienes buscan tramitar su **ciudadanía italiana 🇮🇹** y enfrentan la dificultad de conseguir turnos en el consulado de Zona Sur (Lomas de Zamora, Argentina).  
 
-Es por esto que cree este programa de automatizacion web, en el que el programa realizara **una serie de clicks que normalmente realizaria una persona**, de manera automatica y agil.
+---
 
-**El objetivo principal** de este programa es reducir el error humano, es decir, realizar la accion lo mas rapido posible, disparando automaticamente sus acciones en un determinado horario, evitando cualquier tipo de distraccion o retraso que un humano podria tener *(Como ejemplo: retrasos moviendo el cursor hacia un boton en la parte inferior de la pagina, alguna distraccion en el momento justo del horario indicado, etc.)*.
+## 🎯 Objetivo  
 
-El programa fue creado en conjunto con **ChatGPT-3.5** 🤖, y desarrollado en Python utilizando las bibliotecas de:
+Facilitar la reserva de turnos automatizando las acciones que normalmente realiza una persona en la web consular.  
+El programa ejecuta **clics y acciones precisas en el momento exacto**, eliminando el margen de error humano y aumentando las chances de obtener turno 🏃‍♂️⏰.  
 
- - *Chromedriver* -  para el control del navegador web 
- - *TKINTER*  - para una pequeña interfaz para ingreso de datos
- - *PYINSTALLER* -  para encapsular el programa en un ejectuable y poder distribuirlo
+---
 
-Para el usuario, se despliega una pequeña interfaz donde se solicita sus datos pra iniciar sesion en la pagina, y tambien unos campos para que seleccione a que hora quiere que se intente apretar el boton de reserva *(Este feature fue creado ya que en Europa hay un cambio de horario en Invierno y en Verano, donde se cambia + o - 1 hora, por lo que la apertura de turnos tambien modifica su horario)*.
+## ⚙️ Funcionamiento  
 
-El proyecto logro ser desarrollado hasta una version Beta en al rededor de 3 dias 📅.
-**Actualmente, se encuentra siendo testeado.**
+1. El usuario ingresa sus datos para iniciar sesión en el portal consular.  
+2. Selecciona el horario en el que desea que el sistema intente realizar la reserva.  
+3. A la hora indicada, el programa **dispara automáticamente los clics necesarios**, evitando distracciones o retrasos humanos.  
+4. Ideal para manejar diferencias horarias entre Europa y Argentina (+/- 1h por cambio estacional).  
 
-Se encuentra disponible en el repositorio un programa ejecutable en el sistema operativo macOS 🍎 , aun esta pendiente crear la version ejecutable para Windows.
+---
 
+## 🧩 Tecnologías utilizadas  
 
-*Saludos Cordiales :) 
--Agustin Ocampo 🐼*
+- 🧠 **Python 3**  
+- 🌐 **Chromedriver** – Control del navegador web  
+- 🖥️ **Tkinter** – Interfaz gráfica para ingreso de datos  
+- 📦 **PyInstaller** – Generación del ejecutable para distribución  
+
+---
+
+## ⚡ Estado del proyecto  
+
+- 💻 **Versión Beta** funcional desarrollada en aproximadamente **3 días** 📅  
+- 🍎 **Ejecutable disponible para macOS**  
+- 🪟 Versión para Windows en desarrollo  
+
+---
+
+## 🤝 Créditos  
+
+Desarrollado por **Agustín Ocampo** 🐼 con la colaboración de **ChatGPT-3.5 🤖**  
+> Proyecto creado por necesidad, impulsado por curiosidad y automatizado con pasión.  
+
+📧 [oca_a@outlook.com.ar](mailto:oca_a@outlook.com.ar)  
+🔗 [LinkedIn](https://www.linkedin.com/in/agustin-ocampo-5684b8182/)  
+
+---
+
 
  
