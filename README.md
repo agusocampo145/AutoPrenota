@@ -43,7 +43,7 @@ Desarrollado por **Agustín Ocampo** 🐼 con la colaboración de **ChatGPT-3.5 
 > Proyecto creado por necesidad, impulsado por curiosidad y automatizado con pasión.  
 
 📧 [oca_a@outlook.com.ar](mailto:oca_a@outlook.com.ar)  
-🔗 [LinkedIn](https://www.linkedin.com/in/agustin-ocampo-5684b8182/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/agust%C3%ADn-ocampo-5684b8182/)  
 
 ---
 
